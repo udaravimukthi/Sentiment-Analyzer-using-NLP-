@@ -10,3 +10,13 @@
 
 [Positive probability > Negative Probability] = >  Positive type Sentence
 [Negative probability > Positive Probability] = > Negative type Sentence
+
+For corpus
+•	Positive comments – 40
+•	Negative comments – 40
+           For testing 
+•	Postive comments – 10
+•	Negative comments- 10
+
+Total  Comments  = 100
+
